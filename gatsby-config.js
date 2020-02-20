@@ -14,8 +14,8 @@ module.exports = {
       },
         resolve: 'gatsby-source-etsy',
         options: {
-          apiKey: 'your api key here',
-          shopId: 'your shop id here',
+          apiKey: '710694936',
+          shopId: '22370553',
           language: 'en', // optional
         },
     },
